@@ -52,18 +52,6 @@ a:hover{
     padding-top: 20px;
 }
 
-.bottom-cloud {
-    position: absolute ;
-    padding-bottom: 200px;
-    left: 200px;
-    bottom: 100px;
-}
-
-.top-cloud {
-    position: absolute;
-    right:200px;
-    top: 100px;
-}
 
 .middle-container{
     margin: 100px 0;
